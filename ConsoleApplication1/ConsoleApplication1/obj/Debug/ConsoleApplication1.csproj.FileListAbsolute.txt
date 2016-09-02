@@ -4,3 +4,11 @@ c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1\Console
 c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\博游开始\github\C#learn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
