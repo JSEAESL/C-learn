@@ -1,0 +1,86 @@
+<chapters>
+	<chapter>
+		<id>1</id>
+		<container height="100" widht="100" type="Default"></container>
+		<line startPoint="0,0" angle="0" length ="50" >123</line>
+		<string></string>
+		<points>
+			<point>
+				<id>1</id>
+				<type>1</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>2</id>
+				<type>2</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>3</id>
+				<type>2</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>4</id>
+				<type>3</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+		</points>
+	</chapter>
+	<chapter>
+		<id>2</id>
+		<container height="100" widht="100" type="Default"></container>
+		<line startPoint="3" angle="60" length ="50" >123</line>
+		<string></string>
+		<points>
+			<point>
+				<id>1</id>
+				<type>1</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>2</id>
+				<type>2</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>3</id>
+				<type>2</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+			<point>
+				<id>4</id>
+				<type>3</type>
+				<container height="100" widht="100" type="Default"></container>
+			</point>
+		</points>
+		<chapter>
+			<id>3</id>
+			<container height="100" widht="100" type="Default"></container>
+			<line startPoint="2" angle="30" length ="50" >123</line>
+			<string></string>
+			<points>
+				<point>
+					<id>1</id>
+					<type>1</type>
+					<container height="100" widht="100" type="Default"></container>
+				</point>
+				<point>
+					<id>2</id>
+					<type>2</type>
+					<container height="100" widht="100" type="Default"></container>
+				</point>
+				<point>
+					<id>3</id>
+					<type>2</type>
+					<container height="100" widht="100" type="Default"></container>
+				</point>
+				<point>
+					<id>4</id>
+					<type>3</type>
+					<container height="100" widht="100" type="Default"></container>
+				</point>
+			</points>
+		</chapter>
+	</chapter>
+</chapters>

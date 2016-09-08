@@ -48,9 +48,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApplication1.len13</StartupObject>
+    <StartupObject>ConsoleApplication1.nom.BastLen3._3.BastLen33</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LitJson, Version=0.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LitJson.0.7.0\lib\LitJson.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MarkerMetro.Unity.WinLegacy, Version=1.8.0.7, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MarkerMetro.Unity.WinLegacy.1.8.0.7\lib\net35\MarkerMetro.Unity.WinLegacy.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -73,6 +81,67 @@
     <Compile Include="len7.cs" />
     <Compile Include="len8.cs" />
     <Compile Include="len9.cs" />
+    <Compile Include="nom\bastLen3.2\Skill.cs" />
+    <Compile Include="nom\bastLen3.2\XmlLen.cs" />
+    <Compile Include="nom\BastLen3.3\BastLen33.cs" />
+    <Compile Include="nom\BastLen3.3\Player.cs" />
+    <Compile Include="nom\BastLen3.3\Skill.cs" />
+    <Compile Include="nom\bestLen3.1\Best3.1.cs" />
+    <Compile Include="nom\lastLen1\lastLen1.cs" />
+    <Compile Include="nom\lastLen1\lastLen2.cs" />
+    <Compile Include="nom\lastLen1\lastlen3.cs" />
+    <Compile Include="nom\lastLen1\lastLen4.cs" />
+    <Compile Include="nom\lastLen1\lastlen5.cs" />
+    <Compile Include="nom\lastLen1\Lastlen6.cs" />
+    <Compile Include="nom\lastLen1\lastLen7.cs" />
+    <Compile Include="nom\lastLen1\lastLen8.cs" />
+    <Compile Include="nom\LastLen2.2\lastLen22.cs" />
+    <Compile Include="nom\LastLen2.2\MyClass.cs" />
+    <Compile Include="nom\LastLen2.3\LastLen23.cs" />
+    <Compile Include="nom\LastLen2.3\MyTestAttribute.cs" />
+    <Compile Include="nom\LastLen2.4\LastLen24.cs" />
+    <Compile Include="nom\LastLen2.5\LastLen25.cs" />
+    <Compile Include="nom\LastLen2.5\MyThread.cs" />
+    <Compile Include="nom\LastLen2.6\Lastlen26.cs" />
+    <Compile Include="nom\lastlen2\Kongfu.cs" />
+    <Compile Include="nom\lastlen2\LastLen1.cs" />
+    <Compile Include="nom\lastlen2\MartialArtsMaster.cs" />
+    <Compile Include="nom\nomlen1.cs" />
+    <Compile Include="nom\nomlen10\BaseClass.cs" />
+    <Compile Include="nom\nomlen10\ClassXyz.cs" />
+    <Compile Include="nom\nomlen10\DerivedClass.cs" />
+    <Compile Include="nom\nomlen10\nomlen10.cs" />
+    <Compile Include="nom\nomlen11\Bird.cs" />
+    <Compile Include="nom\nomlen11\IA.cs" />
+    <Compile Include="nom\nomlen11\IB.cs" />
+    <Compile Include="nom\nomlen11\IFly.cs" />
+    <Compile Include="nom\nomlen12\nomlen12.cs" />
+    <Compile Include="nom\nomlen13.cs" />
+    <Compile Include="nom\nomlen14\ClassA.cs" />
+    <Compile Include="nom\nomlen14\nomlen14.cs" />
+    <Compile Include="nom\nomLen15.cs" />
+    <Compile Include="nom\nomlen2\Customer.cs" />
+    <Compile Include="nom\nomlen2\nomlen2.cs" />
+    <Compile Include="nom\nomlen3\nomlen3.cs" />
+    <Compile Include="nom\nomlen3\Vector3.cs" />
+    <Compile Include="nom\nomlen4\len4Vector3.cs" />
+    <Compile Include="nom\nomlen4\nomlen4.cs" />
+    <Compile Include="nom\nomlen5\Boss.cs" />
+    <Compile Include="nom\nomlen5\Enemy.cs" />
+    <Compile Include="nom\nomlen5\nomLen5.cs" />
+    <Compile Include="nom\nomlen6\Boss.cs" />
+    <Compile Include="nom\nomlen6\Enemy.cs" />
+    <Compile Include="nom\nomlen6\nomlen6.cs" />
+    <Compile Include="nom\nomlen7\Boss.cs" />
+    <Compile Include="nom\nomlen7\Enemy.cs" />
+    <Compile Include="nom\nomlen7\nomLen7.cs" />
+    <Compile Include="nom\nomlen8\bird.cs" />
+    <Compile Include="nom\nomlen8\crow.cs" />
+    <Compile Include="nom\nomlen8\nomlen8.cs" />
+    <Compile Include="nom\nomlen9\BaseClass.cs" />
+    <Compile Include="nom\nomlen9\DerivedClass.cs" />
+    <Compile Include="nom\socket_TCP_len\ClientSocket.cs" />
+    <Compile Include="nom\socket_TCP_len\ServerSocket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -88,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -110,6 +180,13 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="nom\bastLen3.2\skill.xml" />
+    <Content Include="nom\BastLen3.3\json.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
